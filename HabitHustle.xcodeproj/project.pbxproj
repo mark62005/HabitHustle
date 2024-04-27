@@ -17,7 +17,7 @@
 		4312F22E2BDB6C5B006C4E4A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4312F22D2BDB6C5B006C4E4A /* HomeView.swift */; };
 		4312F2302BDB6E50006C4E4A /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4312F22F2BDB6E50006C4E4A /* ProfileView.swift */; };
 		4312F2322BDB6E5F006C4E4A /* CommunityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4312F2312BDB6E5F006C4E4A /* CommunityView.swift */; };
-		4312F2362BDB703C006C4E4A /* CourseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4312F2352BDB703C006C4E4A /* CourseView.swift */; };
+		4312F2362BDB703C006C4E4A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4312F2352BDB703C006C4E4A /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,7 +51,7 @@
 		4312F22D2BDB6C5B006C4E4A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		4312F22F2BDB6E50006C4E4A /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		4312F2312BDB6E5F006C4E4A /* CommunityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityView.swift; sourceTree = "<group>"; };
-		4312F2352BDB703C006C4E4A /* CourseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseView.swift; sourceTree = "<group>"; };
+		4312F2352BDB703C006C4E4A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,9 +157,9 @@
 			children = (
 				4312F2002BDB6A3A006C4E4A /* MainTabView.swift */,
 				4312F22D2BDB6C5B006C4E4A /* HomeView.swift */,
-				4312F2352BDB703C006C4E4A /* CourseView.swift */,
 				4312F2312BDB6E5F006C4E4A /* CommunityView.swift */,
 				4312F22F2BDB6E50006C4E4A /* ProfileView.swift */,
+				4312F2352BDB703C006C4E4A /* SettingsView.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -306,7 +306,7 @@
 				4312F2012BDB6A3A006C4E4A /* MainTabView.swift in Sources */,
 				4312F2322BDB6E5F006C4E4A /* CommunityView.swift in Sources */,
 				4312F1FF2BDB6A3A006C4E4A /* HabitHustleApp.swift in Sources */,
-				4312F2362BDB703C006C4E4A /* CourseView.swift in Sources */,
+				4312F2362BDB703C006C4E4A /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

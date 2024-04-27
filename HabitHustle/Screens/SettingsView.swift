@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct CourseView: View {
+struct SettingsView: View {
   var body: some View {
-    Text("Course View")
+    Text("Courses View")
   }
 }
 
 #Preview {
-  CourseView()
+  SettingsView()
 }
